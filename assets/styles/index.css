@@ -1,0 +1,12 @@
+h2.text-center {
+    color: teal;
+}
+
+#label {
+    /* transition: 3s; */
+}
+#label:hover {
+    /* text-decoration: underline teal !important; */
+    color: teal;
+    /* transition: 3s; */
+}
